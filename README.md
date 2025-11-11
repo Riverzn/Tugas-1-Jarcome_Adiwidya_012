@@ -25,7 +25,18 @@ Studi kasus untuk tugas ini adalah:
 
 > Yayasan Pendidikan ARA akan membangun jaringan untuk beberapa unit kerja. Sebagian unit berada di kantor pusat, sedangkan Bidang Pengawas Sekolah berada di kantor cabang. Rancanglah topologinya menggunakan Cisco Packet Tracer dan lakukan perhitungan subnetting dengan VLSM & CIDR.
 >
-> **Base Network:** `10.52.0.0`
+**Base Network:** `10.52.0.0`
+
+| Ruang (Departemen) | Kebutuhan | Prefix |
+| :--- | :---: | :---: |
+| Sekretariat | 380 | /23 |
+| Bidang Kurikulum | 220 | /24 |
+| Bidang Guru & Tendik | 95 | /25 |
+| Bidang Sarana Prasarana | 45 | /26 |
+| B. Pengawas Sekolah (Cabang) | 18 | /27 |
+| Server & Admin | 6 | /29 |
+| WAN Link (Pusat <-> Cabang) | 2 | /30 |
+| **TOTAL** | **766** | |
 
 ---
 
