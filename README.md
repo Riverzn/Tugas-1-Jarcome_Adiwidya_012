@@ -125,6 +125,8 @@ Perhitungan ini didasarkan pada **Base Network `10.52.0.0`**
 - Seluruh alokasi jaringan Yayasan ARA (`10.52.0.0` hingga `10.52.3.255`) dapat diagregasi menjadi satu supernet:
 <img width="1217" height="707" alt="Screenshot 2025-11-11 202456" src="https://github.com/user-attachments/assets/14dcbebc-09b5-49eb-8294-fbdb10c48cb2" />
 
+<img width="768" height="328" alt="image" src="https://github.com/user-attachments/assets/0acf4870-4e49-4063-b79b-d0fa028bf5c6" />
+
 | Network (Supernet) | Mask (Supernet) | Prefix (CIDR) |
 | :--- | :--- | :---: |
 | **`10.52.0.0`** | `255.255.252.0` | **/22** |
