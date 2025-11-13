@@ -49,6 +49,7 @@ Desain topologi dibagi menjadi dua lokasi: Kantor Pusat dan Kantor Cabang, yang 
 
 ### 2. Perhitungan Subnetting (VLSM & CIDR)
 <img width="1313" height="665" alt="Screenshot 2025-11-11 201655" src="https://github.com/user-attachments/assets/2be243e6-423c-44d5-a3f2-789eccbcde37" />
+<img width="560" height="649" alt="image" src="https://github.com/user-attachments/assets/adf6f581-40b9-4976-97fc-8dc8a4714a5c" />
 
 Perhitungan ini didasarkan pada **Base Network `10.52.0.0`**
 
